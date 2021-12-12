@@ -1,0 +1,2 @@
+# Print_table_by_while_loop
+BY USING WHILE LOOP PRINT ANY NUMBER TABLE
